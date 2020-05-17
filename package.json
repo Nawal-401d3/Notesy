@@ -1,0 +1,27 @@
+{
+  "name": "Notesy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nawal-401d3/Notesy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nawal-401d3/Notesy/issues"
+  },
+  "homepage": "https://github.com/Nawal-401d3/Notesy#readme",
+  "dependencies": {
+    "eslint": "^7.0.0",
+    "jest": "^26.0.1",
+    "minimist": "^1.2.5",
+    "notes": "0.0.4"
+  }
+}
